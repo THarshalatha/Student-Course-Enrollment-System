@@ -18,7 +18,7 @@ The project demonstrates relational database design and the use of SQL queries t
 ## 3. Tools and Technologies
 
 - **Database:** MySQL
-- **Database design:** MySQL Workbench, if applicable
+- **Database design:** MySQL Workbench
 - **Query language:** SQL
 - **Version control:** Git and GitHub
 
@@ -132,6 +132,6 @@ The project strengthened my understanding of how SQL can be used to retrieve and
 ## 11. Author
 
 **Name:** T Harshalatha  
-**Qualification:** B.E. Graduate — Computer Science  
+**Qualification:** B.E. Graduate - Computer Science  
 **Career Focus:** Data Analyst / Data Analyst Intern
 
